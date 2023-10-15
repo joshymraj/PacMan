@@ -1,0 +1,10 @@
+.vs
+.vscode
+Library
+Logs
+UserSettings
+obj
+Assembly-CSharp-Editor.csproj
+Assembly-CSharp.csproj
+SceneSaveAndLoad.sln
+.vsconfig
